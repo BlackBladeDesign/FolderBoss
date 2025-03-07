@@ -28,6 +28,20 @@ This tool helps to automatically organize your Blender project files into a stan
    
 By using this tool, you can ensure that your Blender projects are organized in a clear and predictable way from the start.
 
+## Using The Addon
+
+1. Open your Blender project.
+2. Navigate to `File > Folder Boss Operator` from the Blender top menu.
+3. The tool will automatically organize the project and move the files into the appropriate subfolders.
+
+## Installation
+
+1. Download as a .Zip from this repository.
+2. Open Blender and go to `Edit > Preferences > Add-ons > Install`.
+3. Navigate to the downloaded script file and select it.
+4. After installation, enable the add-on by checking the box next to its name in the Add-ons menu.
+5. The tool will now be accessible under `File > Folder Boss Operator`.
+
 ## Future Plans
 
 - Extend the system to organize all linked assets (such as textures, references, and other project files) in the same folder structure.
