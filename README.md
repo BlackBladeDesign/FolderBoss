@@ -3,6 +3,7 @@
 ## Overview
 
 This tool helps to automatically organize your Blender project files into a standardized folder structure. It simplifies the process of maintaining an organized workflow by creating dedicated subfolders for different types of assets.
+![Screenshot 2025-03-08 002345](https://github.com/user-attachments/assets/b2de9ec2-0a1f-43b7-82db-2e8b2aaa88fd)
 
 ## Features
 
