@@ -1,4 +1,4 @@
-# Project Folder Organizer
+# Folder Boss - Automated Folder Organization for Blender
 
 ## Overview
 
